@@ -4,3 +4,5 @@ Testando uma atualização de arquivo
 a
 b
 c
+Enviando a funcionalidade x
+Enviando a funcionalidade b
