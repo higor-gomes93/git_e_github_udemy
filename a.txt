@@ -6,3 +6,6 @@ b
 c
 Enviando a funcionalidade x
 Enviando a funcionalidade b
+Diff
+de
+Arquivos
