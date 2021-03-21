@@ -40,3 +40,10 @@ __Menor e grifado__, _teste de destaques._
 [Google](https://www.google.com)
 
 [![Logo Python](Python.png)](https://www.python.org/)
+
+## Código da função soma
+
+```python
+def soma(a, b):
+    return a + b
+```
