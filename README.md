@@ -32,3 +32,6 @@ __Menor e grifado__, _teste de destaques._
 
 #### Imagem Online
 ![Logo do Python](https://github.com/higor-gomes93/git_e_github_udemy/blob/master/Python.png?raw=true)
+
+#### Imagem Local
+![Logo do Python](Python.png)
