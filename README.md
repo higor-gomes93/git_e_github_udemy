@@ -38,3 +38,5 @@ __Menor e grifado__, _teste de destaques._
 
 ## Links interessantes
 [Google](https://www.google.com)
+
+[![Logo Python](Python.png)](https://www.python.org/)
