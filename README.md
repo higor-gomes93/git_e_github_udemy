@@ -21,3 +21,9 @@ __Menor e grifado__, _teste de destaques._
 * HTML
 * CSS
 * Python
+
+### Funcionalidades a desenvolver:
+
+1. Área de membros
+2. Integração
+3. Sistemas 
