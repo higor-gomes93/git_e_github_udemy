@@ -15,3 +15,9 @@ _Menor e grifado, **teste** de destaques._
 **Menor e grifado, _teste_ de destaques.**
 
 __Menor e grifado__, _teste de destaques._
+
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* Python
