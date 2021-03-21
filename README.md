@@ -25,5 +25,7 @@ __Menor e grifado__, _teste de destaques._
 ### Funcionalidades a desenvolver:
 
 1. Área de membros
+  1. Área comum
+  2. Área especial
 2. Integração
 3. Sistemas 
