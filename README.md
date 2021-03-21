@@ -8,4 +8,4 @@ Testando outro *heading*.
 
 ###### Heading 6
 
-Menor e grifado.
+_Menor e grifado._
