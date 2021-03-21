@@ -47,3 +47,9 @@ __Menor e grifado__, _teste de destaques._
 def soma(a, b):
     return a + b
 ```
+
+## Lista de tarefas a fazer:
+- [ x ] Área de membros
+- [ ] Integração
+- [ ] Sistemas
+- [ x ] Lista
