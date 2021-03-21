@@ -31,4 +31,4 @@ __Menor e grifado__, _teste de destaques._
 3. Sistemas 
 
 #### Imagem local
-![Logo do Python]("c:/Users/Usuario/Documents/Estudos/Git e Github do básico ao avançado (Udemy)/Git e GitHub - Códigos/1_branches/Python.png")
+![Logo do Python]('c:/Users/Usuario/Documents/Estudos/Git e Github do básico ao avançado (Udemy)/Git e GitHub - Códigos/1_branches/Python.png')
