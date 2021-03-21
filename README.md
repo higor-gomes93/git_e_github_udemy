@@ -32,6 +32,3 @@ __Menor e grifado__, _teste de destaques._
 
 #### Imagem Online
 ![Logo do Python](https://github.com/higor-gomes93/git_e_github_udemy/blob/master/Python.png?raw=true)
-
-#### Imagem local
-![Logo do Python]('C:\Users\Usuario\Documents\Estudos\Git e Github do básico ao avançado (Udemy)\Git e GitHub - Códigos\1_branches\Python.png')
