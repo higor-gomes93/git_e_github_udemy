@@ -1,10 +1,10 @@
 # Criando o README
 
-Explorando os comandos em Markdown.
+Explorando os comandos em **Markdown**.
 
 ## Funcionalidades
 
-Testando outro heading.
+Testando outro *heading*.
 
 ###### Heading 6
 
