@@ -29,3 +29,6 @@ __Menor e grifado__, _teste de destaques._
     2. Área especial
 2. Integração
 3. Sistemas 
+
+#### Imagem local
+![Logo do Python]()
